@@ -1,0 +1,32 @@
+/* src/styles/Register.css */
+.register-page {
+    padding: 20px;
+  }
+  
+  .step {
+    margin-bottom: 20px;
+  }
+  
+  .step-buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+  .purple-progress-bar .progress-bar {
+    background-color: #6a1b9a !important;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  button.btn-primary {
+    background-color: #6a1b9a !important;
+    border-color: #6a1b9a !important;
+  }
+  
+  button.btn-secondary {
+    background-color: #4a148c !important;
+    border-color: #4a148c !important;
+  }
+  
+  

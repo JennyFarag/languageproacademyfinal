@@ -1,0 +1,87 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10px; 
+  margin-bottom: 20px;
+  background-color: white !important;
+  box-shadow: none !important;
+  border-bottom: none !important;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  font-size: 2rem; 
+  margin-right: 20px; 
+}
+
+.brand-logo img {
+  margin-right: 5px; 
+}
+
+.navbar-nav {
+  display: flex;
+  flex-grow: 1;
+  justify-content: flex-start;
+}
+
+.nav-link, .navbar-text {
+  color: black !important;
+  margin-right: 10px; 
+}
+
+.register-button {
+  background-color: #C4A8E9 !important;
+  border-color: #C4A8E9 !important;
+  color: white !important;
+  margin-left: auto; 
+  padding: 5px 10px; 
+  font-weight: bold;
+  margin-right:15px;
+}
+
+.phone-number {
+  display: flex;
+  align-items: center;
+  margin-right: 10px; 
+  white-space: nowrap; 
+}
+
+.phone-number i {
+  margin-right: 3px; 
+}
+
+.phone-icon {
+  margin-left: 5px; 
+  font-size: 16px;
+  transform: rotate(90deg); 
+  background: black;
+  color: white;
+  border-radius: 50%;
+  padding: 5px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 25px; 
+  height: 25px; 
+}
+
+.navbar-custom {
+  padding-left: 10px; 
+  padding-right: 10px; 
+  background-color: white !important;
+}
+
+.language-dropdown .nav-link {
+  display: flex;
+  align-items: center;
+}
+
+.language-dropdown .fa-globe {
+  margin-right: 5px;
+}
+.navbar-custom .phone-number {
+  margin-right: 15px;
+}

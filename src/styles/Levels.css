@@ -1,0 +1,33 @@
+.levels {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.levels h1 {
+  color: #6a1b9a;
+  margin-bottom: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.level-boxes {
+  display: flex;
+  justify-content: center; 
+  gap: 20px;
+  margin-top: 40px;
+}
+
+.level-box {
+  width: 120px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #6a1b9a;
+  color: white;
+  cursor: pointer;
+}
+
+.level-box:hover {
+  background-color: #4a148c;
+}

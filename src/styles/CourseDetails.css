@@ -1,0 +1,96 @@
+/* CourseDetails.css */
+
+.course-details-page {
+  margin-top: 20px;
+  padding-bottom: 40px; 
+}
+
+.course-details-page .purple-title {
+  color: #6a1b9a;
+  font-size: 1.75rem; 
+  font-weight: bold; 
+}
+
+.course-details-page .section-title {
+  margin-bottom: 20px; 
+}
+
+.course-details-page .about-section {
+  margin-bottom: 20px; 
+}
+
+.course-details-page p {
+  color: #333;
+}
+
+.course-details-page ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+.course-details-page .text-right {
+  text-align: right;
+  color: #000;
+}
+
+.video-card {
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.small-card {
+  width: 100%; 
+  max-width: 300px; 
+  margin: 0 auto; 
+}
+
+.video-wrapper {
+  position: relative;
+}
+
+.video-wrapper .play-button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 3rem;
+  opacity: 0.8;
+}
+
+.video-wrapper .play-button:hover {
+  color: white;
+  opacity: 1;
+}
+
+.join-course-button {
+  background-color: #6a1b9a; 
+  border-color: #6a1b9a; 
+  width: 100%;
+  color: white; 
+}
+
+.join-course-button:hover {
+  background-color: #4a148c; 
+  border-color: #4a148c;
+}
+
+.support-line-card {
+  background-color: #6a1b9a;
+  color: white;
+  border-radius: 20px; 
+}
+
+.support-line-card h5 {
+  color: white;
+}
+
+.support-line-card p {
+  color: white;
+}
+
+.support-line-card {
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 20px;
+}

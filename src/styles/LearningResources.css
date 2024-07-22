@@ -1,0 +1,59 @@
+.learning-resources-page {
+  padding: 20px;
+}
+
+.page-title {
+  font-size: 2rem;
+  color: #6a1b9a;
+  margin-bottom: 20px;
+}
+
+.interactive-test-section {
+  background-color: #f3e8f5;
+  padding: 40px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.interactive-test-section h2 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.interactive-test-section p {
+  font-size: 1rem;
+  margin-bottom: 20px;
+}
+
+.interactive-test-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.interactive-test-form label {
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.interactive-test-form select {
+  font-size: 1rem;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.start-button {
+  font-size: 1rem;
+  padding: 10px 20px;
+  background-color: #6a1b9a;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.start-button:hover {
+  background-color: #4a148c;
+}

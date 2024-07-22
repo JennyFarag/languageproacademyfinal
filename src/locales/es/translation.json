@@ -1,0 +1,55 @@
+{
+    "navigation": {
+      "home": "Inicio",
+      "about": "Nosotros",
+      "courses": "Cursos",
+      "courseDetails": "Detalles del curso",
+      "learningResources": "Nosotros",
+      "articles": "Artículos",
+      "practiceTests": "Pruebas prácticas",
+      "pages": "Páginas",
+      "faq": "Preguntas frecuentes",
+      "forums": "Foros",
+      "blog": "Blog",
+      "contact": "Contáctanos",
+      "registerNow": "Regístrate ahora"
+    },
+    "home": {
+      "heroTitle": "¡Embárcate en tu viaje lingüístico y mejora tus habilidades lingüísticas!",
+      "heroDescription": "Explora nuestros artículos y pruebas prácticas, y participa en nuestros foros para mejorar tus habilidades con otros.",
+      "languages": {
+        "english": "Inglés",
+        "french": "Francés",
+        "spanish": "Español",
+        "italian": "Italiano"
+      },
+      "features": {
+        "onlineTutoring": "Tutoría en línea",
+        "courses": "Cursos",
+        "lifetimeAccess": "Acceso de por vida",
+        "activeLearning": "Aprendizaje activo"
+      },
+      "about": {
+        "title": "Acerca de nosotros",
+        "subtitle": "Conoce la mejor plataforma de aprendizaje en línea con Verbalize",
+        "description1": "LanguagePro Academy tiene como objetivo proporcionar una plataforma interactiva en línea para el aprendizaje de múltiples idiomas. Nuestro objetivo es hacer que el aprendizaje de idiomas sea accesible, atractivo y efectivo para todos.",
+        "description2": "Únete a nosotros en LanguagePro Academy y emprende tu viaje para dominar nuevos idiomas en un entorno atractivo y de apoyo.",
+        "moreAboutUs": "Más sobre nosotros"
+      },
+      "goals": {
+        "ourGoal": {
+          "title": "Nuestro objetivo",
+          "description": "Hacer que el aprendizaje de idiomas sea accesible y atractivo para todos a través de recursos."
+        },
+        "ourMission": {
+          "title": "Nuestra misión",
+          "description": "Proporcionar herramientas integrales y una comunidad de apoyo para mejorar el aprendizaje."
+        },
+        "ourValues": {
+          "title": "Nuestros valores",
+          "description": "Compromiso con la educación de calidad, la inclusividad y fomentar una pasión por los idiomas."
+        }
+      }
+    }
+  }
+  

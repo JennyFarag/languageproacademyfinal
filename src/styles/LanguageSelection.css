@@ -1,0 +1,42 @@
+.language-selection {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .language-selection h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .language-selection p {
+    margin-bottom: 20px;
+  }
+  
+  .language-selection .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .language-selection .start-button {
+    background-color: #6a1b9a; 
+    border-color: #6a1b9a; 
+    color: white; 
+    padding: 10px 20px;
+    font-size: 1rem;
+  }
+  
+  .language-selection .start-button:hover {
+    background-color: #4a148c; 
+    border-color: #4a148c;
+  }
+  
+  .language-selection a {
+    display: block;
+    margin-top: 20px;
+    color: #6a1b9a;
+    text-decoration: underline;
+  }
+  
+  .language-selection a:hover {
+    color: #4a148c;
+  }
+  

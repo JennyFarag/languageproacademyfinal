@@ -1,0 +1,55 @@
+{
+    "navigation": {
+      "home": "Home",
+      "about": "About",
+      "courses": "Courses",
+      "learningResources": "Learning Resources",
+      "pages": "Pages",
+      "contact": "Contact",
+      "registerNow": "Register Now",
+      "courseDetails": "Course Details",
+      "articles": "Articles",
+      "practiceTests": "Practice Tests",
+      "faq": "FAQ",
+      "forums": "Forums",
+      "blog": "Blog"
+    },
+    "home": {
+      "heroTitle": "Embark on your language journey and elevate your linguistic skills!",
+      "heroDescription": "Explore our articles and practice tests, and engage in our forums to enhance your skills with others.",
+      "languages": {
+        "english": "English",
+        "french": "French",
+        "spanish": "Spanish",
+        "italian": "Italian"
+      },
+      "features": {
+        "onlineTutoring": "Online Tutoring",
+        "courses": "Courses",
+        "lifetimeAccess": "Lifetime Access",
+        "activeLearning": "Active Learning"
+      },
+      "about": {
+        "title": "About us",
+        "subtitle": "Know About Best Online Learning Platform With Verbalize",
+        "description1": "LanguagePro Academy aims to provide an interactive online platform for learning multiple languages. Our goal is to make language learning accessible, engaging, and effective for everyone.",
+        "description2": "Join us at LanguagePro Academy and embark on your journey to mastering new languages in an engaging and supportive environment.",
+        "moreAboutUs": "More about us"
+      },
+      "goals": {
+        "ourGoal": {
+          "title": "Our Goal",
+          "description": "To make language learning accessible and engaging for everyone through resources."
+        },
+        "ourMission": {
+          "title": "Our Mission",
+          "description": "To provide comprehensive tools, and a supportive community to enhance learning."
+        },
+        "ourValues": {
+          "title": "Our Values",
+          "description": "Commitment to quality education, inclusivity, and fostering a passion for languages."
+        }
+      }
+    }
+  }
+  

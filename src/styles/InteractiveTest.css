@@ -1,0 +1,31 @@
+.interactive-test {
+    margin-top: 40px;
+  }
+  
+  .interactive-test h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .interactive-test p {
+    font-size: 1.25rem;
+    color: #6c757d;
+  }
+  
+  .interactive-test .form-control {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .interactive-test .btn-primary {
+    background-color: #6a1b9a;
+    border-color: #6a1b9a;
+    font-size: 1.2rem;
+    padding: 10px 20px;
+  }
+  
+  .interactive-test .btn-primary:hover {
+    background-color: #4a148c;
+    border-color: #4a148c;
+  }
+  

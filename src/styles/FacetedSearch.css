@@ -1,0 +1,54 @@
+/* FacetedSearch.css */
+
+.faceted-search-container {
+  padding: 20px;
+  background-color: #e0e0e0;
+  border: 2px solid #cccccc;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.faceted-search-row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.faceted-search-col {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.faceted-search-label {
+  color: #6a1b9a;
+  font-weight: bold;
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.faceted-search-dropdown {
+  width: 200px;
+}
+
+button.faceted-search-button {
+  background-color: #6a1b9a;
+  border-color: #6a1b9a;
+  width: 100px;
+}
+
+button.faceted-search-button:hover {
+  background-color: #4a148c;
+  border-color: #4a148c;
+}
+
+.language-banner-container {
+  margin-top: 10px;
+}
+
+.language-banner {
+  background-color: #6a1b9a;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+}

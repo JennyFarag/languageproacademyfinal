@@ -1,0 +1,65 @@
+.practice-tests {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.practice-tests-content {
+  flex: 1;
+}
+
+.practice-tests-content h1 {
+  color: #000;
+  margin-bottom: 20px;
+}
+
+.practice-tests-content p {
+  margin-top: 10px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.practice-tests-selection {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.practice-tests-selection label {
+  margin-bottom: 10px;
+}
+
+.custom-select {
+  padding: 5px;
+  width: 200px;
+  font-size: 1rem;
+}
+
+.start-button {
+  padding: 10px 20px;
+  background-color: #6a1b9a;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.start-button:hover {
+  background-color: #4a148c;
+}
+
+.levels-container {
+  margin-top: 40px;
+}
+
+.quiz-container {
+  margin-top: 40px;
+}
+
+.practice-tests-image {
+  flex: 0 0 150px; 
+  height: auto;
+  margin-left: 20px;
+  max-width: 450px;
+}

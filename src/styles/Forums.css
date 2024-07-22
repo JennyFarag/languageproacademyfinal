@@ -1,0 +1,43 @@
+/* Forums.css */
+.forums-page {
+  margin-top: 20px;
+  position: relative;
+}
+
+.forums-page .section-title {
+  color: #6a1b9a;
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 10px; 
+}
+
+.forums-page p {
+  color: #333;
+  font-size: 1.2rem;
+  margin-bottom: 1.5rem;
+}
+
+.forums-page .mb-4 {
+  margin-bottom: 1.5rem;
+}
+
+.forums-page .mb-3 {
+  margin-bottom: 1rem;
+}
+
+.btn-purple {
+  background-color: #6a1b9a;
+  border-color: #6a1b9a;
+  color: white;
+}
+
+.btn-purple:hover {
+  background-color: #5a1480;
+  border-color: #5a1480;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}

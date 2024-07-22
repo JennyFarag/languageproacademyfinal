@@ -1,0 +1,85 @@
+/* src/styles/FrenchResourcesPage.css */
+
+.french-resources-page {
+    padding: 20px;
+  }
+  
+  .french-resources-page h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .french-resources-page p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .resource-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .resource-item {
+    flex: 2; 
+    min-width: 300px;
+    border: 1px solid #ccc;
+    padding: 20px;
+  }
+  
+  .resource-item img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .resource-item h2 {
+    font-size: 1.5rem;
+    margin-top: 10px;
+  }
+  
+  .resource-item p {
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+  
+  .resource-item a {
+    display: block;
+    margin-top: 10px;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .recent-articles {
+    flex: 1; 
+    min-width: 200px; 
+    max-width: 250px; 
+    max-height: 50px; 
+    border: 2px solid purple; 
+    padding: 20px;
+    box-sizing: border-box;
+    overflow-y: auto; 
+  }
+  
+  .recent-articles h3 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .recent-articles ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .recent-articles li {
+    margin-bottom: 10px;
+  }
+  
+  .recent-articles a {
+    color: #007bff;
+    text-decoration: none;
+    background: none;
+    display: block;
+    padding: 5px 0; 
+    margin: 5px 0; 
+  }
+  

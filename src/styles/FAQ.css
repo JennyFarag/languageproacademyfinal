@@ -1,0 +1,89 @@
+.faq-page {
+  padding: 0;
+}
+
+.faq-hero {
+  background-color: #f3e8f5;
+  color: #3c3b6e;
+  padding: 60px 0;
+  text-align: center;
+  margin: 0 20px;
+}
+
+.faq-hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.faq-hero p {
+  font-size: 1.25rem;
+  color: #6a1b9a;
+}
+
+.faq-content {
+  margin-top: 30px;
+}
+
+.faq-heading, .section-heading {
+  font-size: 1.75rem;
+  font-weight: bold;
+  color: #3c3b6e; 
+}
+
+.faq-description {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.faq-image {
+  max-width: 100%; 
+  height: auto;
+  display: block;
+  margin: 0 auto 20px auto; 
+}
+
+.section {
+  margin-top: 30px; 
+}
+
+.section-heading {
+  margin-top: 30px; 
+}
+
+.contact-info {
+  margin-top: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row; 
+}
+
+.contact-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 200px; 
+}
+
+.contact-item i {
+  font-size: 2rem;
+  color: #6a1b9a;
+}
+
+.contact-title {
+  font-size: 1.2rem; 
+  font-weight: bold; 
+  color: black;
+  margin: 5px 0;
+}
+
+.contact-details {
+  font-size: 1.1rem; 
+  color: black;
+  margin: 5px 0;
+}
+
+.accordion-button {
+  color: #000000; 
+}

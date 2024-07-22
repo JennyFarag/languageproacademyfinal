@@ -1,0 +1,93 @@
+.about-hero {
+  background-color: #f3e8f5; 
+  color: #3c3b6e; 
+  padding: 60px 0;
+  text-align: center;
+  margin: 0 20px; 
+}
+
+.about-hero h1 {
+  font-size: 2.5rem; 
+  margin-bottom: 10px;
+}
+
+.about-hero p {
+  font-size: 1.25rem; 
+  color: #6a1b9a; 
+}
+
+.about-page {
+  padding: 20px 0;
+}
+
+.about-content {
+  margin-bottom: 40px;
+}
+
+.about-image {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.teachers-section {
+  padding: 40px 0;
+}
+
+.teacher-card {
+  text-align: center;
+}
+
+.teacher-card img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.teacher-card h5 {
+  font-size: 1.1rem;
+  margin-top: 10px;
+}
+
+.teachers-section {
+  padding: 40px 0;
+}
+
+.teachers-title {
+  font-size: 2rem;
+  color: #6a1b9a; 
+  margin-bottom: 10px;
+}
+
+.teacher-card {
+  text-align: center;
+}
+
+.teacher-box {
+  background-color: #f3e8f5; 
+  color: black;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  height: 300px; 
+  width: 300px; 
+  margin: 0 auto;
+}
+
+.teacher-card h5 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.teacher-card .teacher-box {
+  transition: background-color 0.3s ease;
+}
+
+.teacher-card .teacher-box:hover {
+  background-color: #5a0a7a; 
+}

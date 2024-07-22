@@ -1,0 +1,46 @@
+/* Calendar.css */
+.calendar-container {
+  margin: 20px;
+  text-align: center;
+}
+
+.calendar-container h2 {
+  color: #6a1b9a;
+}
+
+.react-calendar {
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.button-purple {
+  background-color: #6a1b9a; 
+  border-color: #6a1b9a;
+  color: white;
+}
+
+.button-purple:hover {
+  background-color: #5c1784; 
+  border-color: #5c1784;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background: #f9f9f9;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+li h4 {
+  margin: 0 0 5px;
+}
+
+li p {
+  margin: 5px 0;
+}
